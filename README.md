@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://giovym.github.io/Intro-section-with-dropdown-navigation/)
+- Live Site URL: [https://giovym.github.io/Intro-section-with-dropdown-navigation/](https://giovym.github.io/Intro-section-with-dropdown-navigation/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Giovanni](https://github.com/Giovym)
+- Website - [Giovanni Marletta](https://github.com/Giovym)
